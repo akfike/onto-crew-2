@@ -45,3 +45,21 @@ class OntoTasks:
             context=[],
             output_file="output_documents/ontology_research.md"
         )
+    
+    def research_dataset(self, agent, text):
+        description = (
+            f"""
+                Search the internet for any information regarding {text}.
+                Provide a summary of the dataset, what its purpose is, what data is collected, and list all critical concepts in the domain.
+            """
+        )
+        expected_output = "Summary: <summary of dataset>\n Purpose: <purpose of dataset> \n Primary concepts: <primary concepts of dataset>"
+
+        return Task(
+            description=description,
+            expected_output=expected_output,
+            tools=[search_tool],
+            agent=agent,
+            context=[],
+            output_file=f"output_documents/{text}_research.md"
+        )

@@ -71,8 +71,8 @@ class ExtractTextInfoFromPDF:
     def create_output_file_path() -> str:
         now = datetime.now()
         time_stamp = now.strftime("%Y-%m-%dT%H-%M-%S")
-        os.makedirs("output_documents/ExtractTextInfoFromPDF", exist_ok=True)
-        return f"output_documents/ExtractTextInfoFromPDF/extract{time_stamp}.zip"
+        os.makedirs("output_documents/codebook_chunks", exist_ok=True)
+        return f"output_documents/codebook_chunks/extract{time_stamp}.zip"
 
     def process_extracted_text(self, data, max_token_length):
         text = ''.join(item['Text'] for item in data['elements'] if 'Text' in item)
@@ -96,12 +96,12 @@ class ExtractTextInfoFromPDF:
     @staticmethod
     def save_chunk_to_file(chunk, encoder, chunk_number):
         text = encoder.decode(chunk)
-        filename = f'output_documents/ExtractTextInfoFromPDF/chunk_{chunk_number}.txt'
+        filename = f'output_documents/codebook_chunks/chunk_{chunk_number}.txt'
         with open(filename, 'w', encoding='utf-8') as file:
             file.write(text)
 
 
 if __name__ == "__main__":
     # Replace with your actual PDF path
-    PDF_FILE_PATH = 'input_documents/NSF--OKN.pdf'
+    PDF_FILE_PATH = 'input_documents/codebook_pdfs/codebook1.pdf'
     ExtractTextInfoFromPDF(PDF_FILE_PATH)

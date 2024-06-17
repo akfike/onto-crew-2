@@ -52,11 +52,11 @@ class OntoAgents():
             allow_delegation=True
         )
     
-    def domain_expert(self):
+    def dataset_expert(self):
         return Agent(
-            role="Domain Expert",
-            goal="Your aim is to understand completely the domain, structure, and scope of the National Survey on Drug and Health (NSDUH) datasets.",
-            backstory=('You have intimate knowledge of what NSDUH is, what data they collect, and the purposes for which the data is to be used.'),
+            role="Dataset Expert",
+            goal="Your aim is research on the internet any and all information regarding the dataset introduced in the task.",
+            backstory=('You have intimate knowledge of what the dataset is, what data is collected, and the purposes for which the data is to be used.'),
             verbose=True,
             memory=True,
             allow_delegation=True
