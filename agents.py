@@ -1,13 +1,4 @@
 from crewai import Agent
-from crewai_tools import SerperDevTool
-import os 
-
-from dotenv import load_dotenv
-load_dotenv()
-
-serper_api_key = os.getenv("SERPER_API_KEY")
-
-search_tool = SerperDevTool()
 
 class OntoAgents():
 
