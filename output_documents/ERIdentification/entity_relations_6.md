@@ -1,0 +1,1 @@
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Methamphetamines), (Time period)->[is]->(Past 12 months)

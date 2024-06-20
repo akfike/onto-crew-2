@@ -4,9 +4,10 @@ from langchain_openai import ChatOpenAI
 import os
 import sys
 
-load_dotenv()
+load_dotenv(verbose=True)
 
 project_root = os.getenv('PROJECT_ROOT')
+
 
 # Add the project root to sys.path
 if project_root:
@@ -20,6 +21,8 @@ from tasks import OntoTasks
 OpenAIModel = ChatOpenAI(
     model=os.getenv("OPENAI_MODEL_NAME")
 )
+
+print(OpenAIModel)
 
 class DatasetCrew:
 

@@ -109,7 +109,17 @@ class OntoAgents():
             backstory=f"Diligently and exhaustively, you search the internet and aggregate information on {topic}",
             verbose=True,
             memory=True,
-            tools=[search_tool],
+            tools=[],
+            allow_delegation=True,
+        )
+    
+    def entity_identifier(self):
+        return Agent(
+            role="Entity-relation Detector Assistant",
+            goal="Identifying substance abuse behaviors and their related entities from variable names and descriptions in a substance abuse codebook, focusing on entities and relations worth investigating when calculating treatment planning and therapeutic interventions",
+            backstory="You are diligent and thorough",
+            verbose=True,
+            memory=True,
             allow_delegation=True,
         )
    

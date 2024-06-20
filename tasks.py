@@ -63,3 +63,12 @@ class OntoTasks:
             context=[],
             output_file=f"output_documents/{text}_research.md"
         )
+    
+    def entity_identification(self, agent, text, i):
+        return Task(
+            description=f"Please parse this question for the main entities and relationships: {text}",
+            expected_output="(Entity_name)->(relation_name)->(Entity_name)",
+            agent=agent,
+            context=[],
+            output_file=f"entity_relations_{i}.md"
+        )

@@ -1,0 +1,1 @@
+(Person)->[uses]->(Prescription pain relievers), (Person)->[tries to cut down]->(Prescription pain relievers), (Person)->[unable to stop]->(Prescription pain relievers), (Attempt)->[occurs]->(More than one time in past 12 months)

@@ -1,0 +1,35 @@
+1. During the past 12 months, have you driven a vehicle while you were under the influence of alcohol?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Alcohol), (Time period)->[is]->(Past 12 months)
+
+2. During the past 12 months, have you driven a vehicle while you were under the influence of marijuana?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Marijuana), (Time period)->[is]->(Past 12 months)
+
+3. During the past 12 months, have you driven a vehicle while you were under the influence of cocaine?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Cocaine), (Time period)->[is]->(Past 12 months)
+
+4. During the past 12 months, have you driven a vehicle while you were under the influence of heroin?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Heroin), (Time period)->[is]->(Past 12 months)
+
+5. During the past 12 months, have you driven a vehicle while you were under the influence of hallucinogens?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Hallucinogens), (Time period)->[is]->(Past 12 months)
+
+6. During the past 12 months, have you driven a vehicle while you were under the influence of inhalants?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Inhalants), (Time period)->[is]->(Past 12 months)
+
+7. During the past 12 months, have you driven a vehicle while you were under the influence of methamphetamines?
+
+(Person)->[has driven]->(Vehicle), (Person)->[while under the influence of]->(Methamphetamines), (Time period)->[is]->(Past 12 months)
+
+8. Compared to when you first started smoking, you need to smoke a lot more now in order to be satisfied.
+
+(Person)->[started smoking]->(Time), (Person)->[needs]->(Increased amount of cigarettes), (Increased amount of cigarettes)->[to be]->(Satisfied)
+
+9. Some people who use prescription pain relievers try to cut down or stop but find they can't. Was there more than one time in the past 12 months when you tried but were unable to cut down or stop using any prescription pain relievers?"
+
+(Person)->[uses]->(Prescription pain relievers), (Person)->[tries to cut down]->(Prescription pain relievers), (Person)->[unable to stop]->(Prescription pain relievers), (Attempt)->[occurs]->(More than one time in past 12 months)

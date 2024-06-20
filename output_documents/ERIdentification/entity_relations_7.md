@@ -1,0 +1,1 @@
+(Person)->[started smoking]->(Time), (Person)->[needs]->(Increased amount of cigarettes), (Increased amount of cigarettes)->[to be]->(Satisfied)
