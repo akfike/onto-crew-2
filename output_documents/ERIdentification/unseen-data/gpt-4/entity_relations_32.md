@@ -1,0 +1,1 @@
+(EDUSKPCOM)->(incorporates data from)->(EDUSKPMON), (EDUSKPCOM)->(incorporates data from)->(EDUSKPEST), (Respondents)->(reported)->(EDUSKPMON), (Respondents)->(asked)->(QD21DKRE), (QD21DKRE)->(responded)->(Midpoint value assignment), (Midpoint value assignment)->(assigned value)->(EDUSKPCOM)

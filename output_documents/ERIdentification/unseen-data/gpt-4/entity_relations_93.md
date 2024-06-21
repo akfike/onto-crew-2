@@ -1,0 +1,1 @@
+(Respondent)->(being arrested)->(Police), (Respondent)->(being booked)->(Court system), (Police)->(arrest)->(Respondent), (Court system)->(booking)->(Respondent), (Respondent, Police, Court system)->(legal process)->(arrest and booking), (Police)->(interactions)->(Court system)

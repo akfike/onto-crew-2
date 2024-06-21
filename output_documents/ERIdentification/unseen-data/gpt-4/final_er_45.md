@@ -1,0 +1,1 @@
+(individual)->[unemployment period]->(past 12 months), (individual)->[mental health status]->(during unemployment period)

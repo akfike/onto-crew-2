@@ -1,0 +1,1 @@
+(full-time student, part-time student)->[currently attending]->(Respondent), (full-time student, part-time student)->[will be attending post-vacation]->(Respondent)

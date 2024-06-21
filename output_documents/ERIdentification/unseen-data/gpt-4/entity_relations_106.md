@@ -1,0 +1,1 @@
+(BKOTH code 3)->(indicates)->(respondents did not originally answer "yes" to specific offenses but later specified an offense), (BKOTH code 5)->(indicates)->(respondents reported being arrested/booked without specifying the offense), (Individuals)->(arrested and booked for)->(offenses other than those named, excluding minor traffic violations)

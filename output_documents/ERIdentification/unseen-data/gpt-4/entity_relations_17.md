@@ -1,0 +1,1 @@
+(you)->(have difficulty)->(hearing), (hearing)->(even when using)->(hearing aids)

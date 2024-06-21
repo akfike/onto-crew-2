@@ -1,0 +1,1 @@
+(People)->[differ in]->(Sexual Attraction), (Sexual Attraction)->[is directed towards]->(other people), (Individual)->[describes]->(Feelings), (Feelings)->[reflect]->(Sexual Attraction)

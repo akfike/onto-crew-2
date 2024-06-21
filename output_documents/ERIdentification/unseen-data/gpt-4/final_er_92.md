@@ -1,0 +1,1 @@
+(minor traffic violations)->[excluded from]->(arrest count), (arrest count)->[within]->(past 12 months), (arrested and booked)->[for]->(breaking a law)

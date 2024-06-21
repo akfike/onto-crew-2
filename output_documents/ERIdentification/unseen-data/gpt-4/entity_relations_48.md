@@ -1,0 +1,1 @@
+(Time Frame)->(is related to)->(Date Range), (Absence Reason)->(is related to)->(Days of work missed), (Work)->(is related to)->(Days of work missed)

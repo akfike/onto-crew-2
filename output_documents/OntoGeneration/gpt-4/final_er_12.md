@@ -1,0 +1,1 @@
+(past_12_months)->[time_frame]->(were_arrested_and_booked),(you)->[subject]->(were_arrested_and_booked),(were_arrested_and_booked)->[action]->(for_fraud,_possessing_stolen_goods,_or_vandalism),(fraud)->[type_of]->(crime),(possessing_stolen_goods)->[type_of]->(crime),(vandalism)->[type_of]->(crime)

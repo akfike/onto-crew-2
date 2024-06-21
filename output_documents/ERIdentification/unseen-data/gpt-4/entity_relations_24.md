@@ -1,0 +1,1 @@
+(respondents)->(considered enrolled if)->(on break but intend to return), (coding system EDUSCHLGO)->(used for)->(uncertain enrollment status)

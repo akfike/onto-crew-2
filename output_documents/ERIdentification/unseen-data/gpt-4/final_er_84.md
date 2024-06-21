@@ -1,0 +1,1 @@
+(ANYHLTI2)->[is composed from]->(MEDICARE), (ANYHLTI2)->[is composed from]->(CAIDCHIP), (ANYHLTI2)->[is composed from]->(CHAMPUS), (ANYHLTI2)->[is composed from]->(PRVHLTIN)

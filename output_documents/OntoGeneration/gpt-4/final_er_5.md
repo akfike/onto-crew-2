@@ -1,0 +1,1 @@
+(past_12_months)->[time_frame_of]->(arrested_and_booked), (you)->[subject_of]->(arrested_and_booked), (arrested_and_booked)->[for]->(robbery)

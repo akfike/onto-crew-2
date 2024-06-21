@@ -1,0 +1,1 @@
+(workplace)->[provides]->(educational information), (educational information)->[concerns]->(use of alcohol or drugs)

@@ -1,0 +1,1 @@
+(IRWRKSTAT18)->[is a recode of]->(IRWRKSTAT), (Respondents aged 12-17)->[are assigned]->(skip code)

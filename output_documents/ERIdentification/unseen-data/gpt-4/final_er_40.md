@@ -1,0 +1,1 @@
+(individual/respondent)->[did not work last week]->(job or business)

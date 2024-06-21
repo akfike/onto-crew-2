@@ -1,0 +1,1 @@
+(2002 survey)->(implemented)->(no missing values policy for gender question QD01), (gender question QD01)->(does not require)->(imputation), (variables)->(have prefix)->('IR' for Imputation Revised)

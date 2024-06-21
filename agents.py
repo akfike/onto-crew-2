@@ -1,4 +1,10 @@
 from crewai import Agent
+from langchain_openai import ChatOpenAI
+
+
+OpenAIModel = ChatOpenAI(
+    model="gpt-4-turbo"
+)
 
 class OntoAgents():
 
@@ -116,10 +122,33 @@ class OntoAgents():
     def entity_identifier(self):
         return Agent(
             role="Entity-relation Detector Assistant",
-            goal="Identifying substance abuse behaviors and their related entities from variable names and descriptions in a substance abuse codebook, focusing on entities and relations worth investigating when calculating treatment planning and therapeutic interventions",
-            backstory="You are diligent and thorough",
+            goal="Identifying entities and their corresponding relationships in sentences in the efforts to construct an ontology.",
+            backstory="You are diligent and thorough and know a lot about ontologies and knowledge graphs.",
+            llm=OpenAIModel,
             verbose=True,
             memory=True,
-            allow_delegation=True,
+            allow_delegation=False,
+        )
+    
+    def quality_assurance(self):
+        return Agent(
+            role="Quality Assurance Agent",
+            goal="Ensuring the output of the previous task is in the proper format: (Entity 1)->[relation]->(Entity 2), (Entity 2)->[relation]->(Entity 3), (Entity 4)->[relation]->(Entity 1), etc",
+            backstory="You are familiar with ontologies and knowledge graphs so you know the importance of structure",
+            llm=OpenAIModel,
+            verbose=True,
+            memory=True,
+            allow_delegation=False,
+        )
+    
+    def onto_generator(self):
+        return Agent(
+            role="Ontology Expert",
+            goal="You are to develop an ontology with the given information.",
+            backstory="You are intent on making the ontology coherent, general, and simple.",
+            llm=OpenAIModel,
+            verbose=True,
+            memory=True,
+            allow_delegation=False
         )
    

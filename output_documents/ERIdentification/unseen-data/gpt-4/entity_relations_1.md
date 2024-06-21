@@ -1,0 +1,1 @@
+(COUTYP4)->(recoded_based_on)->(2013 Rural/Urban Continuum Codes)

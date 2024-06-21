@@ -1,0 +1,1 @@
+(Individual)->(considered time period)->(past 12 months), (Individual)->(potential involvement)->(Job), (Individual)->(potential involvement)->(Business)

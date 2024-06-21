@@ -1,0 +1,1 @@
+(Arrest and booking for robbery)->[occurs within]->(Past 12 months)

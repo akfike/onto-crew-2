@@ -1,0 +1,1 @@
+(You)->(arrested by)->(Police), (You)->(booked by)->(Court system), (Arrest and Booking)->(related to)->(Burglary or Breaking and entering), (Larceny, Theft)->(reason for)->(Arrest and Booking)

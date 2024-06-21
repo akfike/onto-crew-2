@@ -1,0 +1,1 @@
+(past 12 months)->(is linked to)->(arrested and booked), (arrested and booked)->(is related to)->(robbery)

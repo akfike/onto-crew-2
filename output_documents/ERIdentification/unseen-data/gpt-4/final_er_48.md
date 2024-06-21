@@ -1,0 +1,1 @@
+(whole days of work missed)->[affected by]->(sickness or injury), (sickness or injury)->[during]->(the past 30 days)

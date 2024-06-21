@@ -1,0 +1,1 @@
+(Reasons for loss of health insurance coverage)->(impact)->(Sample member)

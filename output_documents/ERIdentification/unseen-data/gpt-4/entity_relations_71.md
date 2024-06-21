@@ -1,0 +1,1 @@
+(Employer, union, professional association)->(provide)->(private health disease)

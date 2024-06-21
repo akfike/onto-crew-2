@@ -1,0 +1,1 @@
+(full-time student, part-time student)->(currently attending)->(Current school attendance), (full-time student, part-time student)->(will be attending after vacation)->(Future school attendance)

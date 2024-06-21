@@ -1,0 +1,1 @@
+(you)->[work]->(35 hours or more per week), (35 hours or more per week)->[at]->(jobs or businesses)

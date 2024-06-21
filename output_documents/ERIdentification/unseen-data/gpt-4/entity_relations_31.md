@@ -1,0 +1,1 @@
+(Person answering the question)->(skipped/cut school)->(Days), (School)->(days missed)->(Days), (Skipping/cutting school)->(reason)->(Not wanting to be at school), (Person answering the question)->(reasons for missing school)->(Skipping/cutting school)

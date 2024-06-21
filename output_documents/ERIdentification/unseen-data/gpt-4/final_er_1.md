@@ -1,0 +1,1 @@
+(COUTYP4)->[is recoded based on]->(2013 Rural/Urban Continuum Codes), (PDEN10)->[is based on]->(2010 Census data), (PDEN10)->[is based on]->(December 2009 Core Based Statistical Area classifications), (December 2009 Core Based Statistical Area classifications)->[provided by]->(Office of Management and Budget (OMB))

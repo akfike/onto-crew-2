@@ -1,0 +1,1 @@
+(Entity 1)->[relation]->(Entity 2), (Entity 3)->[relation]->(Entity 4)

@@ -1,0 +1,1 @@
+(Individual)->(makes efforts to find)->(Work), (Individual)->(contacts others about)->(Job), (Individual)->(sends out)->(Resumes), (Individual)->(places or answers)->(Ads)

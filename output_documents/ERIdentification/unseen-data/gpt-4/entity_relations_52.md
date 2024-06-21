@@ -1,0 +1,1 @@
+(workplace)->(provides)->(educational information), (educational information)->(covers)->(alcohol), (educational information)->(covers)->(drugs)

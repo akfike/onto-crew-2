@@ -1,0 +1,1 @@
+(Mental problems)->[co-occur and mutually influence]->(Emotional problems)

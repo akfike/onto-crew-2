@@ -1,0 +1,1 @@
+(specific efforts to find work)->[include]->(contacts made with anyone about a job), (specific efforts to find work)->[include]->(sending out resumes or applications), (specific efforts to find work)->[include]->(placing or answering ads), (specific efforts to find work)->[exclude]->(only reading job ads)

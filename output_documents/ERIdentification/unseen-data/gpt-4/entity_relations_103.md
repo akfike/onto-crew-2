@@ -1,0 +1,1 @@
+arrested->(action)->booked, arrested->(reason)->possession/manufacture/sale of drugs

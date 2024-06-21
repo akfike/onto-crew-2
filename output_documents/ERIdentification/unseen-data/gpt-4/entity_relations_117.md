@@ -1,0 +1,1 @@
+(State)->(determines)->(maximum legal penalty), (First offense possession)->(can result in)->(legal penalty), (Possession of an ounce or less of marijuana)->(is)->(specific offense), (Legal penalty)->(is based on)->(amount of marijuana possessed), (Possession of marijuana)->(is for)->(own use)

@@ -1,0 +1,5 @@
+(Medicare)->(indicated by)->(IRMEDICR)
+(Medicaid/CHIP)->(indicated by)->(IRMCDCHP)
+(Tricare, Champus, ChampVA, VA, or Military)->(indicated by)->(IRCHMPUS)
+(Private Insurance)->(indicated by)->(IRPRVHLT)
+(Other Health Insurance)->(indicated by)->(IROTHHLT)

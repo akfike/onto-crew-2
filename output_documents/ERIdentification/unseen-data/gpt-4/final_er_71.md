@@ -1,0 +1,1 @@
+("SAMPLE MEMBER")->[covered by]->("private health insurance"), ("private health insurance")->[obtained through]->("employer/union/professional association"), ("employer/union/professional association")->[employment of]->("family member")

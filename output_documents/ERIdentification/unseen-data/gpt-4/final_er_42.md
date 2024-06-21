@@ -1,0 +1,1 @@
+(Time Period)->[is the duration for]->(Employment), (Individual)->[employment status queried over]->(Time Period)

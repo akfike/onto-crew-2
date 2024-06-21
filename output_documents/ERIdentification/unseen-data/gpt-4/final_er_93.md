@@ -1,0 +1,1 @@
+(Offenses against the law)->[related to]->(arrest and booking), (Motor vehicle theft)->[is a type of]->(Offenses against the law), (Past 12 months)->[temporal boundary for]->(Motor vehicle theft and corresponding arrest and booking)

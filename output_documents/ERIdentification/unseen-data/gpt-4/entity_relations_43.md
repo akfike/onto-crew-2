@@ -1,0 +1,1 @@
+(you (Individual))->(has employment status)->(self-employed (Job/Business)), (you (Individual))->(considered time period)->(past 12 months)

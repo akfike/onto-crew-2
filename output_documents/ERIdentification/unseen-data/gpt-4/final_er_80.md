@@ -1,0 +1,1 @@
+(SAMPLE MEMBER)->[never had]->(health insurance coverage), (Reasons on card)->[describe why]->(SAMPLE MEMBER never had health insurance coverage)

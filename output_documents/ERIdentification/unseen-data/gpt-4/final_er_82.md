@@ -1,0 +1,1 @@
+(IRMEDICR=2)->[indicates]->(Not covered by Medicare), (IRMCDCHP=2)->[indicates]->(Not covered by Medicaid/CHIP), (IRCHMPUS=2)->[indicates]->(Not covered by Tricare, Champus, ChampVA, VA, or Military), (IRPRVHLT=2)->[indicates]->(Not covered by private insurance)

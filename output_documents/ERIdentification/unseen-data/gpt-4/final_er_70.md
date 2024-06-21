@@ -1,0 +1,1 @@
+("SAMPLE MEMBER A")->[covered by]->("private health insurance")

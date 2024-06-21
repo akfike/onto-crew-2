@@ -1,0 +1,1 @@
+(employment)->(associated with)->(job/business), (job/business)->(occurred during)->(last week), (last week)->(defined by)->(Sunday [STARTDATE] to Saturday [ENDDATE])

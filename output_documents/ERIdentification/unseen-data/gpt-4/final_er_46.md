@@ -1,0 +1,1 @@
+(weeks)->[unemployment duration]->(past 12 months), (individual)->[lack of employment]->(job or business)

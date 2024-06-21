@@ -1,0 +1,7 @@
+1. (respondent's initial age)->(recorded at)->(beginning of the questionnaire)
+2. (respondent's age)->(can be changed)->(during consistency checks in the questionnaire)
+3. (final age variable)->(determined by)->(initial age, age from consistency checks, age calculated from raw birthdate, final edited interview date, age from questionnaire roster, pre-interview screener age)
+4. (raw birthdate)->(used to calculate)->(age)
+5. (final edited interview date)->(used to calculate)->(age)
+6. (age entered in the questionnaire roster)->(used to determine)->(final age variable)
+7. (pre-interview screener age)->(used to determine)->(final age variable)

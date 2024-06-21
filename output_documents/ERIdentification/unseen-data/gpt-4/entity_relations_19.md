@@ -1,0 +1,1 @@
+(You)->(have difficulty remembering)->(Cognitive impairments), (You)->(have difficulty concentrating)->(Cognitive impairments)

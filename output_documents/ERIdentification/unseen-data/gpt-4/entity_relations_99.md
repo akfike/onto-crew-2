@@ -1,0 +1,1 @@
+(Individual)->(arrested by)->(Law enforcement agency), (Individual)->(booked by)->(Law recorded in), (Individual)->(charged with)->(Arson)

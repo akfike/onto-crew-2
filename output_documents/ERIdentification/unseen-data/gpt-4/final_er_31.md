@@ -1,0 +1,1 @@
+(Estimate of number of whole days)->[quantifies]->(Whole days of school missed), (Whole days of school missed)->[caused by]->(Voluntary absence reasons), (Past 30 days)->[defines the period for]->(Whole days of school missed)

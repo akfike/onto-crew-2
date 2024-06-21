@@ -1,0 +1,1 @@
+(Individual)->[serves on]->(Active Duty in the United States Armed Forces), (Individual)->[may be part of]->(Reserve components), (Active Duty)->[does not include]->(Training for the Reserves or National Guard), (Active Duty)->[includes]->(Activation for National Emergency or Military Conflict)

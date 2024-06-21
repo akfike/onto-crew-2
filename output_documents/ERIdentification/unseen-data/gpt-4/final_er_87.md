@@ -1,0 +1,1 @@
+(individual(s) at this address)->[have]->(working cell phone)

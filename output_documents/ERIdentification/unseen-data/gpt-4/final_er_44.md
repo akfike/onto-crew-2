@@ -1,0 +1,1 @@
+(Individual A)->[employed at]->(Company X), (Individual B)->[employed part-time at]->(Company Y), (Individual B)->[employed full-time at]->(Company Z)

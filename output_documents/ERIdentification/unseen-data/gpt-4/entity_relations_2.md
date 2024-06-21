@@ -1,0 +1,13 @@
+The main entities and their relationships from the provided text are as follows:
+1. (Federally-recognized American Indian reservations (AIRs) and off-reservation trust land areas)->(set aside by)->(the U.S.)
+2. (Federally-recognized American Indian reservations (AIRs) and off-reservation trust land areas)->(have primary governmental authority over by)->(the tribes)
+3. (State-recognized American Indian Reservations (SAIRs))->(established by)->(some State governments)
+4. (State-recognized American Indian Reservations (SAIRs))->(have governmental authority over by)->(the tribes)
+5. (Oklahoma tribal statistical areas (OTSAs))->(represent)->(former American Indian reservations prior to Oklahoma statehood)
+6. (Tribal designated statistical areas (TDSAs))->(identified and delineated for)->(federally-recognized American Indian tribes without AIR or off-reservation trust land)
+7. (State designated tribal statistical areas (SDTSAs))->(identified and delineated for)->(State-recognized tribes not federally-recognized without AIR or off-reservation trust land)
+8. (AIAs)->(are mutually exclusive)->(each other)
+9. (The Census Bureau)->(creates)->(joint-use area)
+10. (‘majority’ AIA variable)->(sums)->(total number of dwelling units within each of the AIAs)
+11. (‘majority’ AIA variable)->(assigns)->(the AIA with the most dwelling units to that segment)
+12. (MAIIN102)->(summarized from)->(‘majority’ AIAs and is based on 2010 census data)

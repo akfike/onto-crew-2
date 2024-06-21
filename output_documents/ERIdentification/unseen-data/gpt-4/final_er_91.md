@@ -1,0 +1,1 @@
+(Variables)->[edited based on]->(Respondents' earlier answers), (Variables in one section)->[generally not edited to align with]->(Variables in another section), (Encounters with the police or the court system)->[linked to]->(Being arrested and booked)

@@ -1,0 +1,1 @@
+(insurance provider such as employer, union, or professional association)->(provides coverage for)->(treatment of alcohol abuse or alcoholism)

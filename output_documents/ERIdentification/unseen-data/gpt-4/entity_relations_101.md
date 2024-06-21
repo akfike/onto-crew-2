@@ -1,0 +1,1 @@
+(Person)->(arrested for)->(drunkenness or other liquor law violations), (Person)->(booked for)->(drunkenness or other liquor law violations)

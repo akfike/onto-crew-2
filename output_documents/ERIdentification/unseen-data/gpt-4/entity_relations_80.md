@@ -1,0 +1,1 @@
+([SAMPLE MEMBER])->(lack of)->(Health insurance coverage), (Reasons)->(describe)->([SAMPLE MEMBER] never had health insurance coverage)

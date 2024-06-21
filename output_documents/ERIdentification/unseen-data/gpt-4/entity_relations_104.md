@@ -1,0 +1,1 @@
+(Individuals involved in prostitution, commercialized sex, and other sexual offenses)->(arrested by)->(Law enforcement agencies), (Individuals)->(booked by)->(Law enforcement agencies), (Law enforcement agencies)->(handles cases of)->(prostitution, commercialized sex, and other sexual offenses)

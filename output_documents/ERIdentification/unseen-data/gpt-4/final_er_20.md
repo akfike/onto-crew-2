@@ -1,0 +1,1 @@
+(difficulty with self-care)->[affects]->(washing all over), (difficulty with self-care)->[affects]->(dressing)

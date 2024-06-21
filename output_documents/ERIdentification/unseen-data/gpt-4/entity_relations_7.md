@@ -1,0 +1,1 @@
+(Individual)->(is on)->(active duty in the United States Armed Forces), (Individual)->(is in)->(a Reserve component of the United States Armed Forces), (Individual)->(is)->(separated or retired from the military)

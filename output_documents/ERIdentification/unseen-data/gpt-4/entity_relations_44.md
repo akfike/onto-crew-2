@@ -1,0 +1,1 @@
+(yourself (Individual))->(has relationship with)->(employers), (employers)->(exist within)->(past 12 months)

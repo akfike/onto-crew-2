@@ -1,0 +1,1 @@
+(Person)->(drove)->(Vehicle), (Person)->(under the influence of)->(Heroin), (Time Frame)->(specified)->(past 12 months)

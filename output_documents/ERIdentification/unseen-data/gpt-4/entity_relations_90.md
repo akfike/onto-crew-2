@@ -1,0 +1,1 @@
+(POVERTY3)->(indicates)->(person’s family income relative to poverty thresholds), (U.S. Census Bureau)->(assigns)->(poverty threshold), (POVERTY3)->(calculated using)->(finer family income variable), (family income)->(divided by)->(poverty threshold and multiplied by 100), (Respondents aged 18 to 22 living in a college dormitory)->(set to)->(system missing)

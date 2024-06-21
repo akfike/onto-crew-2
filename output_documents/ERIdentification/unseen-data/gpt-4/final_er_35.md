@@ -1,0 +1,1 @@
+(Individual)->[reports_work_status_for]->(Work_status_last_week)

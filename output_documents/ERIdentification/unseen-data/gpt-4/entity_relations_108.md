@@ -1,0 +1,1 @@
+(You)->(was on)->(parole) during (past 12 months), (You)->(was on)->(supervised release) during (past 12 months), (You)->(was on)->(other conditional release) during (past 12 months)

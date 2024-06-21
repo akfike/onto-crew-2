@@ -1,0 +1,1 @@
+(individual's self-perceived health status)->(is influenced by)->(physical health, mental health, lifestyle habits, access to healthcare services)

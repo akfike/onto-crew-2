@@ -1,0 +1,1 @@
+(Individual)->[serves on]->(Active Duty in the United States Armed Forces), (Individual)->[may be part of]->(Reserve components)

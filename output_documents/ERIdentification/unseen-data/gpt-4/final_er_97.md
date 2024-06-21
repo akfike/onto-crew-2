@@ -1,0 +1,1 @@
+(Arrest and booking for other assault, such as simple assault or battery)->[occurs within]->(Past 12 months)

@@ -1,0 +1,1 @@
+(Workplace)->(has)->(policy regarding drug and alcohol testing for employees), (Hiring process)->(may include)->(drug or alcohol testing for potential employees), (Employees)->(are subject to)->(drug and alcohol testing as part of workplace policies), (Workplace)->(requires)->(compliance with drug and alcohol testing policies for successful hiring)

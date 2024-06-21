@@ -1,0 +1,1 @@
+(Arrest and booking for arson)->[may occur within]->(Past 12 months)

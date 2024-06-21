@@ -1,0 +1,1 @@
+(John)->[works_at]->(Google), (Mary)->[employee_of]->(Amazon), (John)->[emailed]->(Mary), (John)->[about]->(Collaboration)

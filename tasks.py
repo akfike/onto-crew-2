@@ -67,8 +67,24 @@ class OntoTasks:
     def entity_identification(self, agent, text, i):
         return Task(
             description=f"Please parse this question for the main entities and relationships: {text}",
-            expected_output="(Entity_name)->(relation_name)->(Entity_name)",
+            expected_output="(Entity_name)->[relation_name]->(Entity_name)",
             agent=agent,
-            context=[],
             output_file=f"entity_relations_{i}.md"
+        )
+    
+    def ensure_proper_format(self, agent, i, context):
+        return Task(
+            description="Please edit the output from the previous task if necessary to ensure it is in the proper format. Make sure any spaces between words are replaced with underscores.",
+            expected_output="(Entity_1)->[relation_name]->(Entity_2), (Entity_3)->[relation_name]->(Entity_4)",
+            agent=agent,
+            context=[context],
+            output_file=f"final_er_{i}.md"
+        )
+    
+    def ontology_generation(self, agent, text):
+        return Task(
+            description=f"Read the following text and create a general ontology: {text}",
+            expected_output="Represent the ontology in RDF or OWL format",
+            agent=agent,
+            output_file="onto.owl"
         )

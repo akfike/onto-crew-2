@@ -1,0 +1,1 @@
+(IRMARIT)->(indicates)->(change from self-administration in 2015 to interviewer administration in 2016), (IRMARIT)->(is comparable with)->(variables from 2002 to 2014), (IRMARIT)->(is not comparable with)->(IRMARITSTAT in 2015)

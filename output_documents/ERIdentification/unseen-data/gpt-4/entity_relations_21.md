@@ -1,0 +1,1 @@
+(You)->(communicating)->(understanding or being understood)

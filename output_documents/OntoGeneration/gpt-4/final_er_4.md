@@ -1,0 +1,1 @@
+(Individual)->[was_arrested_and_booked_for]->(Other_Assault_including_Simple_Assault_or_Battery)

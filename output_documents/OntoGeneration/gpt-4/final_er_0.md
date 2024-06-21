@@ -1,0 +1,1 @@
+(You)->[asked_about]->(Offenses), (Offenses)->[characterized_as]->(Against_the_law), (You)->[asked_if]->(Arrested_and_booked), (Arrested_and_booked)->[within_timeframe]->(Past_12_months), (Arrested_and_booked)->[for]->(Motor_vehicle_theft)

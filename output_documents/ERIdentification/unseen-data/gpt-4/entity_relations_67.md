@@ -1,0 +1,6 @@
+1. ([SAMPLE MEMBER])->(health insurance coverage)->(Medicare)
+2. ([SAMPLE MEMBER A])->(covered by)->(Medicare)
+3. ([SAMPLE MEMBER POSS])->(health insurance coverage)->(Medicare)
+4. (Medicare)->(program for)->(people aged 65 and older)
+5. (Medicare)->(program for)->(certain people with disabilities)
+6. (respondents)->(asked to confirm)->(Medicare coverage under the age of 65)

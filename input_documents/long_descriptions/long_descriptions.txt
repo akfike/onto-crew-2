@@ -1,0 +1,23 @@
+The next questions are about offenses that are against the law. As you read each question, please answer whether you were arrested and booked for that offense during the past 12 months. In the past 12 months, were you arrested and booked for motor vehicle theft?
+In the past 12 months, were you arrested and booked for larceny or theft? Do not include motor vehicle theft.
+In the past 12 months, were you arrested and booked for burglary or breaking and entering?
+NOTE: BKSRVIOL was created from answers to the following questions: In the past 12 months, were you arrested and booked for aggravated assault? In the past 12 months, were you arrested and booked for forcible rape? In the past 12 months, were you arrested and booked for murder, homicide, or nonnegligent manslaughter?
+In the past 12 months, were you arrested and booked for other assault, such as simple assault or battery?
+In the past 12 months, were you arrested and booked for robbery?
+In the past 12 months, were you arrested and booked for arson?
+In the past 12 months, were you arrested and booked for driving under the influence of alcohol or drugs?
+In the past 12 months, were you arrested and booked for drunkenness or other liquor law violations?
+In the past 12 months, were you arrested and booked for possession of tobacco?
+In the past 12 months, were you arrested and booked for possession, manufacture, or sale of drugs?
+NOTE: BKSEXNR was created from answers to the following questions: In the past 12 months, were you arrested and booked for prostitution or commercialized sex? In the past 12 months, were you arrested and booked for any other sexual offense, not including rape or prostitution?
+In the past 12 months, were you arrested and booked for fraud, possessing stolen goods, or vandalism?
+NOTE: For the variable BKOTH, a code of 3 indicates that respondents did not originally answer "yes" to any of the questions about specific offenses for which they were arrested/booked in the past 12 months, including the question about "some other offense." However, these respondents subsequently specified a valid response for an offense in the past 12 months. A code of 5 in BKOTH indicates that respondents reported being arrested/booked at least once in the past 12 months but did not indicate at least one offense for which they were arrested in that period. In the past 12 months, were you arrested and booked for some other offense besides these that have been named? Please do not include minor traffic violations.
+nan
+During the past 12 months, have you driven a vehicle while you were under the influence of alcohol?
+During the past 12 months, have you driven a vehicle while you were under the influence of marijuana?
+During the past 12 months, have you driven a vehicle while you were under the influence of [COKEFILL]?
+During the past 12 months, have you driven a vehicle while you were under the influence of heroin?
+During the past 12 months, have you driven a vehicle while you were under the influence of [LSFILL]?
+During the past 12 months, have you driven a vehicle while you were under the influence of any inhalant?
+During the past 12 months, have you driven a vehicle while you were under the influence of methamphetamine?
+During the past 12 months, have you driven a vehicle while you were under the influence of alcohol only?

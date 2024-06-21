@@ -1,0 +1,1 @@
+(individuals with substance use disorders)->(co-occur with)->(mental health disorders), (mental health disorders)->(impact)->(treatment outcomes), (dual diagnosis)->(influences)->(relapse risks)

@@ -1,0 +1,1 @@
+([SAMPLE MEMBER])->(covered by)->(health insurance)

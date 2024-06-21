@@ -1,0 +1,1 @@
+(You)->(being arrested)->(Police), (You)->(being booked)->(Court system), (Police)->(arrest)->(You), (Court system)->(booking)->(You), (Larceny, Theft)->(reason for)->(arrest and booking)

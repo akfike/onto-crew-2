@@ -1,0 +1,1 @@
+(Patient)->[exhibits]->(Substance Abuse), (Substance Abuse)->[requires]->(Treatment Planning), (Treatment Planning)->[involves]->(Therapeutic Interventions), (Therapeutic Interventions)->[aim to]->(Recovery)

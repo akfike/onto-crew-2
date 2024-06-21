@@ -1,0 +1,1 @@
+(weeks)->(did not have)->(at least one job or business) during (past 12 months)

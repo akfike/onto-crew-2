@@ -1,0 +1,1 @@
+(workplace)->[provides]->(employee assistance program or other type of counseling program), (employee assistance program or other type of counseling program)->[supports]->(employees with alcohol or drug-related problems)

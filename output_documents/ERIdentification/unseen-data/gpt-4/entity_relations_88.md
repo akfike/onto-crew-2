@@ -1,0 +1,1 @@
+(Address)->(has)->(Telephone), (Telephone)->(is not)->(Cell phone)

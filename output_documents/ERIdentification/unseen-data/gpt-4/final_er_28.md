@@ -1,0 +1,1 @@
+(Respondent)->[has]->(Number of whole days of school missed), (Reason for absence)->[causes]->(Number of whole days of school missed), (Time frame)->[specifies]->(Number of whole days of school missed), (Respondent)->[experiences]->(Reason for absence)

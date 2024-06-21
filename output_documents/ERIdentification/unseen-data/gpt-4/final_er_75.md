@@ -1,0 +1,1 @@
+(SAMPLE MEMBER A)->[is covered by]->(health insurance), (health insurance)->[includes]->(policy), (health insurance)->[includes]->(program)

@@ -1,0 +1,1 @@
+(individuals)->(identify themselves in relation to)->(categories or groups)

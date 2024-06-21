@@ -1,0 +1,1 @@
+(Individual)->(has difficulty with)->(Self-care activities), (Self-care activities: washing all over, dressing)->(are performed by)->(Individual), (Individual)->(is assessed for ability to perform)->(Self-care activities)

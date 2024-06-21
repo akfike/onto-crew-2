@@ -1,0 +1,1 @@
+(communication difficulty)->[pertains to]->(challenges in understanding or being understood)

@@ -1,0 +1,1 @@
+(Supplemental Security Income (IRFAMSSI))->(contributes to)->(GOVTPROG), (food stamps (IRFSTAMP))->(contributes to)->(GOVTPROG), (cash assistance (IRFAMPMT))->(contributes to)->(GOVTPROG), (non-cash assistance (IRFAMSVC))->(contributes to)->(GOVTPROG)

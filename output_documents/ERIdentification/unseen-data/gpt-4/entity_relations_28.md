@@ -1,0 +1,1 @@
+'number of school days missed'->'affected by'->'illness or injury', 'illness or injury'->'occurred within'->'time period of 30 days'

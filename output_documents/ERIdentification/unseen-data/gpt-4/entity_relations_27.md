@@ -1,0 +1,1 @@
+(Time Period)->(is related to)->(School Days Missed), (Illness or Injury)->(can lead to)->(School Days Missed), (Student)->(can experience)->(Illness or Injury leading to School Days Missed), (Family Member's illness)->(can result in)->(Student missing School Days)

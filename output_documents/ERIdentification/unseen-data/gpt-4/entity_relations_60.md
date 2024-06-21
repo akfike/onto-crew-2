@@ -1,0 +1,1 @@
+(Employer)->(conducts)->(Drug or alcohol testing on employees), (Drug or alcohol use)->(is monitored by)->(Employer), (Random basis)->(determines)->(Drug or alcohol testing occurrence), (Employee's likelihood to work)->(is influenced by)->(Drug or alcohol testing practices)

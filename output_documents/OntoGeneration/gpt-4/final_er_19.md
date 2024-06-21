@@ -1,0 +1,1 @@
+(past_12_months)->[timeframe_of]->(action), (you)->[subject_of]->(driving), (vehicle)->[object_of]->(driving), (you)->[state]->(under_the_influence_of_[LSFILL]), (under_the_influence_of_[LSFILL])->[condition_of]->(driving)

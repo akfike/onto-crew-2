@@ -1,0 +1,1 @@
+(workplace)->(has)->(written policy), (written policy)->(governs)->(employee use of alcohol or drugs), (employee)->(subject to)->(policy)

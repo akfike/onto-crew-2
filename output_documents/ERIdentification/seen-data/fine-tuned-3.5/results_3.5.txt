@@ -1,0 +1,42 @@
+1. During the past 12 months, have you driven a vehicle while you were under the influence of alcohol?
+
+(Driver)->(have driven)->(Vehicle) 
+(Driver)->(under the influence of)->(Alcohol)
+
+2. During the past 12 months, have you driven a vehicle while you were under the influence of marijuana?
+
+(Driver)->(have driven)->(Vehicle)
+(Driver)->(under the influence of)->(Marijuana)
+
+3. During the past 12 months, have you driven a vehicle while you were under the influence of cocaine?
+
+(Driver)->(have driven)->(Vehicle)
+(Driver)->(under the influence of)->(Cocaine)
+
+4. During the past 12 months, have you driven a vehicle while you were under the influence of heroin?
+
+(Driver)->(have driven)->(Vehicle)
+(Driver)->(under the influence of)->(Heroin)
+
+5. During the past 12 months, have you driven a vehicle while you were under the influence of hallucinogens?
+
+(Driver)->(have driven)->(Vehicle)
+(Driver)->(under the influence of)->(Hallucinogens)
+
+6. During the past 12 months, have you driven a vehicle while you were under the influence of inhalants?
+
+(Driver)->(have driven)->(vehicle)
+(Driver)->(have driven)->(under the influence of inhalants)
+
+7. During the past 12 months, have you driven a vehicle while you were under the influence of methamphetamines?
+
+(Driver)->(have driven)->(Vehicle)
+(Driver)->(under the influence of)->(Methamphetamines)
+
+8. Compared to when you first started smoking, you need to smoke a lot more now in order to be satisfied.
+
+(You)->(need to smoke)->(more)
+
+9. Some people who use prescription pain relievers try to cut down or stop but find they can't. Was there more than one time in the past 12 months when you tried but were unable to cut down or stop using any prescription pain relievers?"
+
+(person)->(try to cut down or stop using)->(prescription pain relievers)

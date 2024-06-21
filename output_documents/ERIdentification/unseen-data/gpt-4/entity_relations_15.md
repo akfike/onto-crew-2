@@ -1,0 +1,1 @@
+(individual)->(language proficiency in)->(English)

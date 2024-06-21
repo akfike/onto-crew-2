@@ -1,0 +1,2 @@
+- (TRICARE, CHAMPUS, CHAMPVA, The VA, military health care)->(cover)->(active duty and retired career military personnel, dependents and survivors, disabled veterans and their dependents and survivors)
+- (The VA)->(covers)->(disabled veterans and their dependents and survivors)

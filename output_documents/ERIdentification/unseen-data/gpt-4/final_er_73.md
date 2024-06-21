@@ -1,0 +1,1 @@
+(Drug abuse)->[implicitly related to]->(treatment for alcohol abuse), (Drug abuse)->[implicitly related to]->(treatment for alcoholism), (private health insurance)->[obtained through]->(employer/union/professional association)

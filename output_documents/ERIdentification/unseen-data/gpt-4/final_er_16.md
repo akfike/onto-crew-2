@@ -1,0 +1,1 @@
+(Individual)->[has difficulty]->(Seeing), (Glasses)->[used for]->(Seeing), (Contact lenses)->[used for]->(Seeing)

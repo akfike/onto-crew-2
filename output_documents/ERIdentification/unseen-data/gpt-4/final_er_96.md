@@ -1,0 +1,1 @@
+(Arrest and booking for aggravated assault)->[occurs within]->(Past 12 months), (Arrest and booking for forcible rape)->[occurs within]->(Past 12 months), (Arrest and booking for murder, homicide, or nonnegligent manslaughter)->[occurs within]->(Past 12 months)

@@ -1,0 +1,8 @@
+1. (CAIDCHIP)->(replaces)->(MEDICAID)
+2. (CAIDCHIP)->(created from)->(responses for respondents aged 20 or older)
+3. (CAIDCHIP)->(created from)->(responses for respondents aged 12 to 19)
+4. (Respondents aged 65 or older)->(asked to confirm)->(Medicaid coverage)
+5. (Medicaid)->(program for)->(people with low income and disabilities)
+6. (Medicaid)->(also called)->([MEDIFILL] in [STATE FILL])
+7. ([SAMPLE MEMBER A])->(covered by)->(Medicaid)
+8. ([SAMPLE MEMBER A])->(covered by)->([CHIPFILL])

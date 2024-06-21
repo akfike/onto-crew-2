@@ -1,0 +1,1 @@
+(Grade/year of school)->(currently attending)->(Current school attendance), (Grade/year of school)->(will be attending after vacation)->(Future school attendance)

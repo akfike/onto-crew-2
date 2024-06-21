@@ -1,0 +1,1 @@
+(difficulty)->[affects]->(remembering), (difficulty)->[affects]->(concentrating)

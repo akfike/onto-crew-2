@@ -1,0 +1,1 @@
+(general health status)->[influences]->(treatment plans), (general health status)->[suggests need for]->(examination of lifestyle, mental health, and physical health practices), (general health status)->[tailored by]->(healthcare providers)

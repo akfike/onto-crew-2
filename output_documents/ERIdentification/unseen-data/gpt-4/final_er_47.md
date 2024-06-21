@@ -1,0 +1,1 @@
+(2015-2017)->[Employed as]->(Junior Analyst at ABC Corporation), (2018-2019)->[Employed as]->(Research Associate at XYZ Research Institute), (2020-Present)->[Employed as]->(Senior Data Analyst at DataTech Solutions)

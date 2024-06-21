@@ -1,0 +1,1 @@
+(Past 12 months)->[temporal boundary for]->(arrest and booking), (arrest and booking)->[related to]->(burglary or breaking and entering)

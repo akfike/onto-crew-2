@@ -1,0 +1,1 @@
+(Hours)->(related to the amount of)->(Work), (Work)->(related to the number of)->(Hours), (Work)->(performed during)->(Last week), (Work)->(performed at)->(Jobs), (Work)->(performed at)->(Businesses)

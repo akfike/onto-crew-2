@@ -1,0 +1,1 @@
+(you)->[have_driven]->(vehicle), (you)->[while]->(under_the_influence_of_heroin), (under_the_influence_of_heroin)->[during]->(past_12_months)

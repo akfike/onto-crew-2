@@ -1,0 +1,1 @@
+(Variable ANYHLTI2)->(was created from)->(Source variables: MEDICARE, CAIDCHIP, CHAMPUS, PRVHLTIN)

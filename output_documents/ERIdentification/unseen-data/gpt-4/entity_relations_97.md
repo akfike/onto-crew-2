@@ -1,0 +1,1 @@
+(past 12 months)->(is linked to)->(arrested and booked), (other assault, such as simple assault or battery)->(is related to)->(arrested and booked)

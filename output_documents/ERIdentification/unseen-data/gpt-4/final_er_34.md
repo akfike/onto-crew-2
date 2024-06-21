@@ -1,0 +1,1 @@
+(Individual)->[reports_hours_of]->(Work_per_week), (Individual)->[reports_days_of]->(Work_past_week), (Individual)->[reports_days_of]->(Work_past_year), (Individual)->[rates]->(Work_effort), (Individual)->[reports_reason_for]->(Leaving_job), (Individual)->[reports_reason_for]->(Not_seeking_job)

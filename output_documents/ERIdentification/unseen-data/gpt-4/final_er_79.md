@@ -1,0 +1,1 @@
+([SAMPLE MEMBER])->(stopped being covered by)->(health insurance), (Entity 3)->[relation]->(Entity 4)
